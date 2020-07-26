@@ -117,6 +117,8 @@ THE SOFTWARE.
 
 @angular/material/button
 
+@angular/material/card
+
 @angular/material/core
 
 @angular/material/datepicker
@@ -128,6 +130,8 @@ THE SOFTWARE.
 @angular/material/icon
 
 @angular/material/list
+
+@angular/material/progress-bar
 
 @angular/material/sidenav
 
